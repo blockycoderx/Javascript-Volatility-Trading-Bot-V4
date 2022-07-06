@@ -7,7 +7,7 @@ This is the Volatility Trading Bot Version 4 they utilizes pure JavaScript and m
 
 I always say a video is worth a thousand words so I made this easy to follow tutorial on how to configure it
 
-
+https://youtu.be/XPQmlFq0PZE
 
 
 You can download the zip file of the Volatility Trading Bot version 4 here
